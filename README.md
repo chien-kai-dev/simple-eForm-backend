@@ -12,6 +12,7 @@
 ## Screens
 
 - Login Page
-  <img width="1350" height="609" alt="image" src="https://github.com/user-attachments/assets/6257512d-4e4a-4a0e-a36c-62c3549820b3" />
+  <img width="1348" height="608" alt="image" src="https://github.com/user-attachments/assets/d26110c2-1a66-4339-a91a-a3382c56a6e4" />
+  
 - Electronic Form Page
-  <img width="1352" height="679" alt="image" src="https://github.com/user-attachments/assets/b3517a24-7c0f-42ee-9780-d5caa5003491" />
+  <img width="1229" height="616" alt="image" src="https://github.com/user-attachments/assets/2f9c74e3-6ba5-45f9-9f6c-8467c986e58e" />
